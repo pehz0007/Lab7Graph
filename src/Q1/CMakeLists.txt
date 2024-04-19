@@ -1,0 +1,1 @@
+add_executable(Q1 q1.c)
